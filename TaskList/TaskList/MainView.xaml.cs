@@ -1,6 +1,6 @@
 ﻿namespace TaskList {
-    public partial class MainWindow {
-        public MainWindow() {
+    public partial class MainView {
+        public MainView() {
             InitializeComponent();
         }
     }
